@@ -6,7 +6,8 @@ HTCVive, Unity, Good pc
 
 For all infomation read the document.
 
-If you have a error, reinstall the plugins 
+IMPORTANT:
+INSTALL THE VIVESR EXPIRIENCE PLUG IN, VIVE SR, STEAM VR
 
 
 if you use this repository, I'd be really happy to know :-D
