@@ -1,0 +1,54 @@
+newmtl Model0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Tr 1.0
+illum 1
+Ns 0.0
+map_Kd Model0.png
+
+newmtl Model1
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Tr 1.0
+illum 1
+Ns 0.0
+map_Kd Model1.png
+
+newmtl Model2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Tr 1.0
+illum 1
+Ns 0.0
+map_Kd Model2.png
+
+newmtl Model3
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Tr 1.0
+illum 1
+Ns 0.0
+map_Kd Model3.png
+
+newmtl Model4
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Tr 1.0
+illum 1
+Ns 0.0
+map_Kd Model4.png
+
+newmtl Model5
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Tr 1.0
+illum 1
+Ns 0.0
+map_Kd Model5.png
+
