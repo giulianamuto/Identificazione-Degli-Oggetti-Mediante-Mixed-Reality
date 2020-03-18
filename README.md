@@ -2,7 +2,7 @@ IdentificazioneDegliOggettiMedianteMixedReality
 
 You need:
 
-HTCVive and plug-in, Unity,  Good pc 
+HTCVive, Unity, Good pc 
 
 For all infomation read the document.
 
