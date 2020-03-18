@@ -4,7 +4,7 @@ You need:
 
 HTCVive, Unity, Good pc 
 
-For all infomation read the document.
+For all infomations read the document.
 
 IMPORTANT:
 INSTALL THE VIVESR EXPIRIENCE PLUG IN, VIVE SR, STEAM VR
